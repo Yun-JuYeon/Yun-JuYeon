@@ -18,7 +18,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=juyeon&theme=radical&hide_border=true)
+### 🔥 GitHub Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yun-JuYeon&theme=radical&hide_border=true)
+
 
 
