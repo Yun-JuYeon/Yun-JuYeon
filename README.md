@@ -5,7 +5,7 @@
 ### 👨‍💻 About Me  
 💼 **Company:**  
   - [Kornec Corp](https://kornec.com) (System Engineer) `2024.05.01 ~ 2024.07.31`  
-  - [Didim365 Corp](https://didim365.com) (AI Engineer) `2024.08.01 ~ Now`  
+  - [Didim365 Corp](https://didim365.com) (AI Engineer) `2024.08.01 ~ Present`  
     - **Projects:**  
   
     | **프로젝트명**                  | **기간**                   | **대상 사용자**         | **주요 내용**                                                                                                                                  | **LLM 모델**                                              | **기술 스택**                                                                                      |
