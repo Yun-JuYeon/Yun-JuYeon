@@ -4,8 +4,8 @@
   
 ### 👨‍💻 About Me  
 💼 **Company:** 
-    - [Kornec Corp](https://kornec.com) (System Engineer) 2024.05.01 ~ 2024.07.31
-    - [Didim365 Corp](https://didim365.com) (AI Engineer) 2024.08.01 ~ now
+    -- [Kornec Corp](https://kornec.com) (System Engineer) 2024.05.01 ~ 2024.07.31
+    -- [Didim365 Corp](https://didim365.com) (AI Engineer) 2024.08.01 ~ now
 🎓 **Education:** Yonam Institute of Technology, software engineering
 📍 **Location:** Seoul, South Korea  
 
@@ -15,11 +15,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
   
----
-
-### 🚀 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yun-JuYeon&theme=react-dark)
-
 ---
 
 ### 📫 Contact Me  
