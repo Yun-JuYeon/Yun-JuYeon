@@ -4,8 +4,9 @@
   
 ### 👨‍💻 About Me  
 💼 **Company:** 
-    -- [Kornec Corp](https://kornec.com) (System Engineer) 2024.05.01 ~ 2024.07.31
-    -- [Didim365 Corp](https://didim365.com) (AI Engineer) 2024.08.01 ~ now
+    - [Kornec Corp](https://kornec.com) (System Engineer) `2024.05.01 ~ 2024.07.31`  
+    - [Didim365 Corp](https://didim365.com) (AI Engineer) `2024.08.01 ~ Now`
+
 🎓 **Education:** Yonam Institute of Technology, software engineering
 📍 **Location:** Seoul, South Korea  
 
